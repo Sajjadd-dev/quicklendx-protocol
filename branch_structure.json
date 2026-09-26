@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/qe-2026-08-bid-authorization-boundaries",
+    "main",
+    "origin",
+    "solver/issue-2440-17-b1120",
+    "solver/issue-2440-96-a0"
+  ],
+  "parent": {
+    "fix/qe-2026-08-bid-authorization-boundaries": "main",
+    "main": null,
+    "origin": "main",
+    "solver/issue-2440-17-b1120": "main",
+    "solver/issue-2440-96-a0": "main"
+  },
+  "order": [
+    "main",
+    "fix/qe-2026-08-bid-authorization-boundaries",
+    "origin",
+    "solver/issue-2440-17-b1120",
+    "solver/issue-2440-96-a0"
+  ]
+}
